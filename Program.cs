@@ -36,8 +36,11 @@ class Program
         //Intermediate.CheckAllPositive();
         //Intermediate.FirstDivisibleByThreeFive();
         //Intermediate.CombineLists();
-       // StudentMarks.StudentMarksGreaterThanEighty();
-       Intermediate.LongestString();
+        // StudentMarks.StudentMarksGreaterThanEighty();
+        //Intermediate.LongestString();
+        //ProductOutOfStock.ProductOutOfStocks();
+        //Intermediate.AvgOfFloat();
+        Employee2.GetAvgSalary();
     }
 
     public static void GetLetter()

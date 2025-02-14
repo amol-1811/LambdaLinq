@@ -82,5 +82,14 @@
 
             Console.WriteLine("Longest string in a list is : " + longest);
         }
+
+        //Calculate the average of a list of floating-point numbers
+        public static void AvgOfFloat()
+        {
+            List<double> nums = new List<double>() { 1.2, 5.6, 7.4, 9.1, 3.09 };
+            double avg = nums.Average();
+
+            Console.WriteLine("Average of the list :" + avg);
+        }
     }
 }
